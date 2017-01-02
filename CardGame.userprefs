@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Procedural Creations\Cards\Examples\DeckStandard.cs">
+    <Files>
+      <File FileName="Assets\Procedural Creations\Cards\CardStock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Procedural Creations\Cards\Examples\CardGame.cs" Line="494" Column="25" />
+      <File FileName="Assets\Procedural Creations\Cards\Examples\GameButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Procedural Creations\Cards\Card.cs" Line="797" Column="17" />
+      <File FileName="Assets\Procedural Creations\Cards\CardDeck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Procedural Creations\Cards\CardDefinition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Procedural Creations\Cards\DepthSort.cs" Line="1" Column="1" />
+      <File FileName="Assets\Procedural Creations\Cards\Examples\DeckStandard.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Dakroub\Documents\CardGame\Assets\Procedural Creations\Cards\Examples\CardGame.cs" line="866" column="1" />
+      <Breakpoint file="C:\Users\Dakroub\Documents\CardGame\Assets\Procedural Creations\Cards\Examples\CardGame.cs" line="868" column="1" />
+      <Breakpoint file="C:\Users\Dakroub\Documents\CardGame\Assets\Procedural Creations\Cards\Examples\CardGame.cs" line="867" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
